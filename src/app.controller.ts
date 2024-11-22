@@ -36,7 +36,7 @@ export class AppController {
     {
       id: 3,
       title: 'Három könyv',
-      author: 'Gamesz',
+      author: 'Gabesz',
       isbn: 'slkrkgsrji',
       publishYear: 1990,
       reserved: true,
